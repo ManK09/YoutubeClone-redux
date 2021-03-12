@@ -1,0 +1,3 @@
+const SELECT_VIDEO = "SELECT_VIDEO";
+
+export default SELECT_VIDEO
